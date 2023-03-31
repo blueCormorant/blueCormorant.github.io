@@ -38,5 +38,4 @@ gem "kramdown-parser-gfm"
 
 gem "liquid"
 
-
 gem "webrick", "~> 1.8"
