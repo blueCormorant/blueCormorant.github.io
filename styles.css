@@ -1,0 +1,38 @@
+/* Default styles for the image */
+.image {
+  width: 100%;
+  height: auto;
+}
+
+/* Styles for large screens */
+@media screen and (min-width: 768px) {
+  .image {
+    width: 50%;
+  }
+}
+
+/* Styles for small screens */
+@media screen and (max-width: 767px) {
+  .image {
+    width: 100%;
+  }
+}
+
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+}
+
+.content .text {
+  flex-basis: 60%;
+  padding-left: 20px;
+}
+
