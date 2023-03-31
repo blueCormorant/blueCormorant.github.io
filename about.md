@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+redirect_from:
+ - /index
 ---
 
 <link rel="stylesheet" href="../styles.css">
