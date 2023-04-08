@@ -18,3 +18,4 @@ redirect_from:
   <p>For better or for worse, I’ve always been something of a generalist in tech and am looking for opportunities to develop deeper expertise in applied ML/NLP.</p>
   </div>
 </div>
+
